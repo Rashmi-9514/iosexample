@@ -1,0 +1,6 @@
+framework module Pods_iosexample_NotificationService {
+  umbrella header "Pods-iosexample-NotificationService-umbrella.h"
+
+  export *
+  module * { export * }
+}

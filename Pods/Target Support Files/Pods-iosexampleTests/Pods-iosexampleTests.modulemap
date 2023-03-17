@@ -1,0 +1,6 @@
+framework module Pods_iosexampleTests {
+  umbrella header "Pods-iosexampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
